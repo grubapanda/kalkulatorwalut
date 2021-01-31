@@ -11,7 +11,7 @@
     <div class="jumbotron">
         <div class="container">
             <h1>Kalkulator walutowy</h1>
-            <p>Podaj kwotę w PLN oraz wybierz obcą walutę do której chcesz przeliczyć daną kwotę</p>
+            <p>Podaj kwotę w PLN oraz wybierz obcą walutę do której chcesz przeliczyć daną kwotę.</p>
         </div>
     </div>
     <section>
